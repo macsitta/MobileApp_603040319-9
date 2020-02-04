@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_Project</string>
+    <string name="reviewer_content1">ยอดอ่านทั้งหมด 14,623 ครั้ง</string>
+    <string name="writer_head">จัดอันดับนักเขียน</string>
+    <string name="main_head">กำลังฉาย</string>
+    <string name="review_sorce">ที่มา  :</string>
+    <string name="review_view">"ยอดผู้อ่าน : "</string>
+</resources>

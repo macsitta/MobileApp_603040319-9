@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_Project</string>
+    <string name="main_head">Now Showing</string>
+    <string name="writer_head">Top Writer</string>
+    <string name="review1_writer" translatable="false">นักเลงโรงหนัง</string>
+    <string name="review_sorce">Source : </string>
+    <string name="review_view">View : </string>
+    <string name="reviewer_name1" translatable="false">อวยไส้แตก แหกไส้ฉีก</string>
+    <string name="reviewer_content1">Total view 14,623 view</string>
+</resources>
