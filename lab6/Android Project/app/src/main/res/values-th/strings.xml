@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_ok">ตกลง</string>
+    <string name="app_name">โมบาย แลบ4</string>
+    <string name="edit_message">ใส่ข้อความ</string>
+</resources>
